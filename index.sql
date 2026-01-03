@@ -1,1 +1,3 @@
 hello
+SELECT *
+FROM customer
